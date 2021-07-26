@@ -3,7 +3,7 @@
 #    controller: App\Controller\DefaultController::indexpath: /
 home:
   path: /home
-  controller: App\Controller\DefaultController::index
+  controller: App\Controller\DefaultController::home
 main:
-  path: /home
+  path: /main
   controller: App\Controller\DefaultController::indexdemas
